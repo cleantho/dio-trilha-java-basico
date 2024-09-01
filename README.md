@@ -1,3 +1,3 @@
 # dio-trilha-java-basico
 
-Projeto desafio da trilha Java básico da DIO.
+Projetos de desafio da trilha Java básico da DIO.
